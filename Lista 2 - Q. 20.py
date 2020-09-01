@@ -17,4 +17,4 @@ elif number == 6:
 elif number == 7:
     print("Domingo")
 else:
-    print("Número inválido")
+    print("Número inválido: não existe dia da semana com esse número")
